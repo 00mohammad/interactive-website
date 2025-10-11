@@ -61,6 +61,3 @@ Welcome to **Interactive Website**, a sleek, modern, and fully responsive web pr
 - **Optimized assets** – Fast loading and smooth performance.
 
 ---
-
-## 📂 Project Structure
-
