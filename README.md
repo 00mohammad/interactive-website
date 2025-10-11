@@ -1,80 +1,59 @@
-# Interactive Website 🌐
+# 🌐 Interactive Website
 
-[![Made with HTML5](https://img.shields.io/badge/HTML5-%23E34F26?style=for-the-badge&logo=html5&logoColor=white)](https://developer.mozilla.org/en-US/docs/Web/HTML) 
-[![Made with CSS3](https://img.shields.io/badge/CSS3-%231572B6?style=for-the-badge&logo=css3&logoColor=white)](https://developer.mozilla.org/en-US/docs/Web/CSS) 
-[![JavaScript](https://img.shields.io/badge/JavaScript-%23F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)](https://developer.mozilla.org/en-US/docs/Web/JavaScript) 
-[![GitHub](https://img.shields.io/badge/GitHub-%23121011?style=for-the-badge&logo=github&logoColor=white)](https://github.com/00mohammad)
+Welcome to **Interactive Website**, a modern, fully responsive website designed to showcase your business, portfolio, and services. Built with **HTML5, CSS3, and JavaScript**, this project is optimized for **desktop, tablet, and mobile devices**.
 
 ---
 
-## 📌 Table of Contents
+## 🎬 Project Demo Video
 
-- [About the Project](#about-the-project)
-- [Demo](#demo)
-- [Features](#features)
-- [Technologies Used](#technologies-used)
-- [Installation](#installation)
-- [Project Structure](#project-structure)
-- [Author](#author)
-- [Notes](#notes)
+[![Watch Demo Video](Screenshot/Laptop(1).png)](videos/Screen%20Recording%202025-10-10%20132153.mp4)
+
+> Click the image above to watch the full project demo.
 
 ---
 
-## About the Project
+## 📸 Screenshots
 
-**Interactive Website** is a modern, fully responsive website designed to showcase a business’s services, portfolio, and client testimonials.  
-It features interactive UI components, a clean design, and is optimized for desktop, tablet, and mobile devices.  
+### 💻 Laptop
+| ![Laptop 1](Screenshot/Laptop(1).png) | ![Laptop 2](Screenshot/Laptop(2).png) | ![Laptop 3](Screenshot/Laptop(3).png) |
+|--------------------------------------|--------------------------------------|--------------------------------------|
+| ![Laptop 4](Screenshot/Laptop(4).png) | ![Laptop 5](Screenshot/Laptop(5).png) |                                      |
 
----
+### 📱 Mobile
+| ![Mobile 1](Screenshot/Mobile(1).png) | ![Mobile 2](Screenshot/Mobile(2).png) | ![Mobile 3](Screenshot/Mobile(3).png) |
+|---------------------------------------|---------------------------------------|---------------------------------------|
+| ![Mobile 4](Screenshot/Mobile(4).png) | ![Mobile 5](Screenshot/Mobile(5).png) | ![Mobile 6](Screenshot/Mobile(6).png) |
+| ![Mobile 7](Screenshot/Mobile(7).png) | ![Mobile 8](Screenshot/Mobile(8).png) | ![Mobile 9](Screenshot/Mobile(9).png) |
+| ![Mobile 10](Screenshot/Mobile(10).png) |                                     |                                       |
 
-## Demo
-
-### Screenshots
-
-**Laptop View**  
-![Laptop](./Screenshot/Laptop(1).png)  
-![Laptop](./Screenshot/Laptop(2).png)
-
-**Tablet View**  
-![Tablet](./Screenshot/Tablet(1).png)  
-![Tablet](./Screenshot/Tablet(2).png)
-
-**Mobile View**  
-![Mobile](./Screenshot/Mobile(1).png)  
-![Mobile](./Screenshot/Mobile(2).png)
-
-### Demo Video
-
-[![Watch Demo Video](./Screenshot/Laptop(1).png)](./videos/Screen\ Recording\ 2025-10-10\ 132153.mp4)  
-
-> Click the image above to watch the full demo video.
+### 📱 Tablet
+| ![Tablet 1](Screenshot/Tablet(1).png) | ![Tablet 2](Screenshot/Tablet(2).png) | ![Tablet 3](Screenshot/Tablet(3).png) |
+|--------------------------------------|--------------------------------------|--------------------------------------|
+| ![Tablet 4](Screenshot/Tablet(4).png) | ![Tablet 5](Screenshot/Tablet(5).png) | ![Tablet 6](Screenshot/Tablet(6).png) |
+| ![Tablet 7](Screenshot/Tablet(7).png) | ![Tablet 8](Screenshot/Tablet(8).png) | ![Tablet 9](Screenshot/Tablet(9).png) |
 
 ---
 
-## Features
+## ✨ Features
 
-- ✅ Fully **responsive design** for all devices  
-- ✅ **Interactive menu** with hamburger toggle for mobile  
-- ✅ **Step-by-step "How it Works" section**  
-- ✅ **Portfolio gallery** showcasing projects  
-- ✅ **Client testimonials section**  
-- ✅ **Newsletter subscription** integrated in footer  
-- ✅ Modern typography and clean layout  
-
----
-
-## Technologies Used
-
-- HTML5 & CSS3  
-- JavaScript  
-- Fonts: TTNorms & Times Roman Italic  
-- Git & GitHub for version control  
-- Git LFS for large video files  
+- Fully **responsive design** for desktop, tablet, and mobile
+- **Interactive menu** with hamburger icon
+- **Portfolio section** with high-quality images
+- **Clients & testimonials** carousel
+- **Newsletter subscription** form
+- **Custom fonts** and professional typography
+- Clean and modern design layout
 
 ---
 
-## Installation
+## 🛠 Technologies
 
-1. Clone the repository:
-   ```bash
-   git clone https://github.com/00mohammad/Interactive-website.git
+- HTML5 & CSS3
+- JavaScript
+- Git & GitHub
+- Git LFS for video file support
+
+---
+
+## 📂 Project Structure
+
